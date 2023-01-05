@@ -5,7 +5,7 @@
 * 💻 ML/DL enthusiast
 
   <a href="https://github.com/reidn3r">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reidn3r&layout=compact&theme=highcontrast" />
+    <img style="margin:auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reidn3r&layout=compact&theme=highcontrast" />
   </a>
 
 ## Studying in this moment:
