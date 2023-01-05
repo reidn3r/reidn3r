@@ -5,9 +5,6 @@
 * 💻 ML/DL enthusiast
 
 <a href="https://github.com/reidn3r">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=reidn3r&hide=contribs,prs&count_private=true&show_icons=true&theme=highcontrast" />
-</a>
-<a href="https://github.com/reidn3r">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reidn3r&layout=compact&theme=highcontrast" />
 </a>
 
