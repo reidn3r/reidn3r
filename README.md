@@ -3,10 +3,11 @@
 * 👨‍🎓 Studying C.S at UEM
 * 👨‍💻 Improving my knoledge in NodeJS and backend tech's
 * 💻 ML/DL enthusiast
-
-<a href="https://github.com/reidn3r">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reidn3r&layout=compact&theme=highcontrast" />
-</a>
+<div style="margin:auto">
+  <a href="https://github.com/reidn3r">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reidn3r&layout=compact&theme=highcontrast" />
+  </a>
+</div>
 
 ## Studying in this moment:
 <div style="display: inline_block">
