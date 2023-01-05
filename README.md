@@ -1,41 +1,31 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header"/>
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Reidner;I'm+22+years+old;I'm+a+graduate+student+in+Computer+Science+at+UEM;Be+Welcome!+:%29)](https://git.io/typing-svg)
+## Sup? My name is Reidner 🚀
 
+* 👨‍🎓 Studying C.S at UEM
+* 👨‍💻 Improving my knoledge in NodeJS and backend tech's
+* 💻 ML/DL enthusiast
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=reidn3r&show_icons=true&count_private=true&hide_border=true&title_color=FA8072&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Reidner github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reidn3r&layout=compact&hide_border=true&title_color=FA8072&text_color=00bfbf&bg_color=0d1117" />
+<a href="https://github.com/reidn3r">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=reidn3r&hide=contribs,prs&count_private=true&show_icons=true&theme=highcontrast" />
+</a>
+<a href="https://github.com/reidn3r">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reidn3r&layout=compact&theme=highcontrast" />
+</a>
+
+## Studying in this moment:
+<div style="display: inline_block">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=reidn3r&theme=gotham&hide_border=true&area=true)
+<div style="display:inline_block">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="expressjs">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow">
+</div>
 
-### Main skills:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+<div style="display:inline_block">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB">
+    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+</div>
 
- 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
-
-
-### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-c++-0D1117?style=for-the-badge&logo=c++&logoColor=purple&labelColor=0D1117)&nbsp; 
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-
-  
-### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
