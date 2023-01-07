@@ -8,7 +8,7 @@
     <img style="margin:auto" align="center" src="https://github-readme-stats-2-reidn3r.vercel.app/api/top-langs/?username=reidn3r&layout=compact&theme=highcontrast" />
   </a>
 
-## Studying in this moment:
+## 📖 Studying in this moment:
 <div style="display: inline_block">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
