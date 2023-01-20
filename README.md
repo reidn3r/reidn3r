@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é Reidner, sou estudante de Ciência da Computação na UEM. Atualmente, estudando (e me aprofundando em) Node e tecnologias <strong>backend</strong>, mas também me interesso pela área de dados<br>
+  Meu nome é Reidner, sou estudante de Ciência da Computação na UEM. Atualmente, estudando (e me aprofundando em) Node e tecnologias <strong>backend</strong>, mas também me interesse pela área de dados<br>
 </p>
 
 <p align="left">
