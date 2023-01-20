@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é Reidner, sou estudante de Ciência da Computação na UEM. Atualmente, estudando (e me aprofundando em) Node e tecnologias <strong>backend</strong>, mas também dando os primeiros passos em React<br>
+  Meu nome é Reidner, sou estudante de Ciência da Computação na UEM. Atualmente, estudando (e me aprofundando em) Node e tecnologias <strong>backend</strong>, mas também me interesso pela área de dados<br>
 </p>
 
 <p align="left">
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /><br> 
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <br>
+
 </p>
 
 <p align="left">
