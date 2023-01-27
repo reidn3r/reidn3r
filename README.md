@@ -19,7 +19,7 @@
 </p>
 
 <p>
-  <samp> Express, Socket.io, Sequelize, Pandas, Numpy, Scikit-learn </samp>
+  <samp> Express, Socket.io, Pandas, Numpy, Scikit-learn </samp>
  </p>
 <hr>
 
