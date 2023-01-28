@@ -19,7 +19,7 @@
 </p>
 
 <p>
-  <samp> Express, Socket.io, Pandas, Numpy, Scikit-learn </samp>
+  <samp> Express, Socket.io, Sequelize, Mongoose. Numpy, Pandas, Scikit-learn </samp>
  </p>
 <hr>
 
@@ -32,7 +32,7 @@
 </p>
 
 <p align="left">
-💻 <strong> Status:</strong><br>
+💻 <strong>Stats:</strong><br>
   <a href="https://github.com/reidn3r">
     <img style="margin:auto" align="center" src="https://github-readme-stats-2-reidn3r.vercel.app/api/top-langs/?username=reidn3r&layout=compact&theme=highcontrast" />
   </a>
