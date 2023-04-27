@@ -19,7 +19,7 @@
 </p>
 
 <p>
-  <samp> Express, Socket.io, Sequelize, Mongoose. Numpy, Pandas, Scikit-learn </samp>
+  <samp> Express, Socket.io, Sequelize, Mongoose, Tensorflow.js. Numpy, Pandas, Scikit-learn </samp>
  </p>
 <hr>
 
