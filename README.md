@@ -31,9 +31,10 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-<p align="left">
+<!-- <p align="left">
 💻 <strong>Stats:</strong><br>
   <a href="https://github.com/reidn3r">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reidn3r&theme=react&line_height=40&hide=css" />
   </a>
 </p>
+ -->
