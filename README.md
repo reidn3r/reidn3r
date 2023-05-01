@@ -34,6 +34,6 @@
 <p align="left">
 💻 <strong>Stats:</strong><br>
   <a href="https://github.com/reidn3r">
-    <img style="margin:auto" align="center" src="https://github-readme-stats-2-reidn3r.vercel.app/api/top-langs/?username=reidn3r&layout=compact&theme=highcontrast" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reidn3r&theme=react&line_height=40&hide=css" />
   </a>
 </p>
