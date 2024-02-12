@@ -1,5 +1,5 @@
 # :rocket: About Me:
-:wave: Hi, my name is Reidner.<br> :test_tube: I'm currently studying Computer Science at UEM and learning more about SpringBoot, Node.js, Unit Testing and so on...<br> :cloud: Really interested in learn about Frontend Topics and Cloud Computing </br>
+:wave: Hi, my name is Reidner.<br> :test_tube: I'm currently studying Computer Science at UEM and learning more about SpringBoot, Node.js, Unit Testing and so on...<br> :cloud: Really interested in learn about Cloud Computing </br>
 
 # :pushpin: Contact:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reidner-adnan-b19377210) 	[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ra110582@uem.br)
