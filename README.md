@@ -17,5 +17,6 @@
 <a href="mailto:rdn.adn00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </p>
 
-# 📊 GitHub Stats:
+<h1>GitHub Stats</h1>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reidn3r&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
