@@ -7,9 +7,10 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-000?style=flat-square&logo=c&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-000?style=flat-square&logo=git&logoColor=white" />
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-000?style=flat-square&logo=RabbitMQ&logoColor=white"/>
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-000?style=flat-square&logo=redis&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-000?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-Redis-000?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-000?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 <h3>Where to find me</h3>
