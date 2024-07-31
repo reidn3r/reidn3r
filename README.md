@@ -5,7 +5,6 @@
 <p> 
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-000?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=white" />
-  <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-000?style=flat-square&logo=springboot&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-000?style=flat-square&logo=c&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker&logoColor=white" />
   <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-000?style=flat-square&logo=RabbitMQ&logoColor=white"/>
