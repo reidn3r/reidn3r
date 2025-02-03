@@ -1,15 +1,15 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Hi, I'm Reidner, Computer Science student from <b>Brasil</b>.
-<h3>Things I code with</h3>
+<p>Hi, I'm Reidner, Computer Science student from <b>Brazil</b>.
+<h3>Main things I code with</h3>
 <p> 
+  <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-000?style=flat-square&logo=Spring&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-000?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-000?style=flat-square&logo=c&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-000?style=flat-square&logo=React&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-000?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-000?style=flat-square&logo=RabbitMQ&logoColor=white"/>
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-000?style=flat-square&logo=redis&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-000?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-000?style=flat-square&logo=PostgreSQL&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-000?style=flat-square&logo=git&logoColor=white" />
 </p>
 
