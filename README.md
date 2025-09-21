@@ -19,7 +19,7 @@
 
 ### 🟢 Node.js
 - **LocalStack Serverless Functions** - AWS Lambda development environment using LocalStack for local serverless testing and deployment [[Repository](https://github.com/reidn3r/localstack-serverless-functions)]
-- 
+  
 ### 🤖 ML/DL & Agents
 - **🐍 [Python] TensorFlow U2-Net** - TensorFlow implementation of U²-Net for salient object detection [[Repository](https://github.com/reidn3r/TensorFlow-U2-Net)]
 - **⚡ [C/C++] Logistic Regression** - Logistic Regression implementation [[Repository](https://github.com/reidn3r/logistic-regression)]
